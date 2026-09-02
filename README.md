@@ -29,3 +29,15 @@ When using Python for software development, we need a contained environment to m
 https://github.com/mlnotes2718/conda-Intro
 
 https://github.com/mlnotes2718/uv-Intro
+
+
+## Introduction to Machine Learning
+This is the main machine learning study notes. Over here, I write a very detail study notes in a step by step manner. We start with gradient deswcent in linear regression and also cover logistics regression. Regularization of the models also covered.
+
+https://github.com/mlnotes2718/Introduction-Machine-Learning
+
+
+## Advance Supplement
+
+### Calculus For Machine Learning
+https://github.com/mlnotes2718/Calculus-For-Machine-Learning
