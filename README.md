@@ -42,6 +42,7 @@ The following repository focus on build decision tree from scratch.
 
 https://github.com/mlnotes2718/basics-decision-tree
 
+## Introduction to LLM
 ### Tiny GPT Project
 This is a very small GPT project that allows the learner to learn how GPT is trained on a pre-trained model.
 
