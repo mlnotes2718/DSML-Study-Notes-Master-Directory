@@ -30,6 +30,12 @@ https://github.com/mlnotes2718/conda-Intro
 
 https://github.com/mlnotes2718/uv-Intro
 
+#### 4. Using container in VSCode
+The following guide shows how to use dev containers in VSCode
+
+https://github.com/mlnotes2718/VSCode-dev-container
+
+https://github.com/mlnotes2718/VSCode-dev-container-quickstart
 
 ## Introduction to Machine Learning
 This is the main machine learning study notes. Over here, I write a very detail study notes in a step by step manner. We start with gradient deswcent in linear regression and also cover logistics regression. Regularization of the models also covered.
