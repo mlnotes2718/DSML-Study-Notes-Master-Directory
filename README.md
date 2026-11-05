@@ -37,6 +37,12 @@ https://github.com/mlnotes2718/VSCode-dev-container
 
 https://github.com/mlnotes2718/VSCode-dev-container-quickstart
 
+## Data Engineering
+
+The following repository is a mono repository that demonstrate a simple end to end pipeline using meltano and dasgter with BigQuery as the data warehouse. 
+
+https://github.com/mlnotes2718/dsai-data-eng-e2e
+
 ## Introduction to Machine Learning
 This is the main machine learning study notes. Over here, I write a very detail study notes in a step by step manner. We start with gradient deswcent in linear regression and also cover logistics regression. Regularization of the models also covered.
 
