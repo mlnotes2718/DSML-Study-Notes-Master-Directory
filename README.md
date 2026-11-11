@@ -63,6 +63,9 @@ https://github.com/mlnotes2718/Tiny-GPT-Project
 
 ### LLM Study
 
+- GenAI Tools Evaluation
+https://github.com/mlnotes2718/genai-tools-evaluation
+
 - LLM Hellucination
 https://github.com/mlnotes2718/LLM-Hallucination
 
