@@ -55,10 +55,26 @@ The following repository focus on build decision tree from scratch.
 https://github.com/mlnotes2718/basics-decision-tree
 
 ## Introduction to LLM
+
 ### Tiny GPT Project
 This is a very small GPT project that allows the learner to learn how GPT is trained on a pre-trained model.
 
 https://github.com/mlnotes2718/Tiny-GPT-Project
+
+### LLM Study
+
+- LLM Hellucination
+https://github.com/mlnotes2718/LLM-Hallucination
+
+- Image Generation
+https://github.com/mlnotes2718/image_gen_study
+
+- GenAI Governance
+https://github.com/mlnotes2718/gen-ai-case-study-deloitte
+
+- Prompt Injection
+https://github.com/mlnotes2718/LLM-Prompt-Injection
+
 
 ## Advance Supplement
 
